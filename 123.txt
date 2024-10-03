@@ -1,0 +1,18 @@
+PAGINA 9 
+ejercicio 5
+------------
+1 motherboard
+2 hard drive
+3 usb port
+4 sound card
+5 dvd drive
+6 processor
+7 ram chip
+8 heat sink and fan
+
+EJERCICIO 2
+-----------
+1 Can i help you sir?
+2 What do you need to use it for?
+3 Do you want to use it for downloading music or films?
+4 It's on special offer this week
